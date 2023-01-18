@@ -1,0 +1,33 @@
+#+TITLE: Campo Minado
+#+AUTHOR: Professor Ribas e Turma de EDA1 UnB/FGA
+#+DATE: 17 de janeiro de 2023
+
+* Introdução
+
+Este é um simples campo minado desenvolvido durante uma aula de EDA1
+na Unb/FGA.
+
+O objetivo deste campo minado foi exercitar o conceito de FILA e PILHA
+de maneira prática. Este simples jogo permite que o aluno consiga ver,
+de maneira animada, a ordem que os campos são abertos quando se
+"clica" em uma posição vazia.
+
+A implementação é direta e simples. Tudo foi implementado em conjunto
+com os alunos.
+
+* TODO
+
+Muitos elementos do jogo ainda faltam para que ele fique jogável. Mas
+o essencial está neste código.
+
+Algumas coisas que julgo importante realizar para ficar mais robusto:
+ - [ ] Separar as funções de FILA em um arquivo separado
+ - [ ] Colocar a biblioteca de PILHA
+ - [ ] Fazer a animação alternar entre FILA e PILHA
+ - [ ] Finalizar as regras do jogo
+ - [ ] Gerar um Makefile
+ - [ ] Suporte a ncurses, para que seja possível desenhar na tela com
+   cores e com a possibilidade de escolher a área a ser aberta sem
+   digitar os campos
+ - [ ] perfumarias gerais para deixar o jogo bonito
+   

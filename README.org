@@ -30,7 +30,7 @@ Muitos elementos do jogo ainda faltam para que ele fique jogável. Mas
 o essencial está neste código.
 
 Algumas coisas que julgo importante realizar para ficar mais robusto:
- - [ ] Separar as funções de FILA em um arquivo separado
+ - [X] Separar as funções de FILA em um arquivo separado
  - [ ] Colocar a biblioteca de PILHA
  - [ ] Fazer a animação alternar entre FILA e PILHA
  - [ ] Finalizar as regras do jogo

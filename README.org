@@ -15,13 +15,22 @@ de maneira animada, a ordem que os campos são abertos quando se
 A implementação é direta e simples. Tudo foi implementado em conjunto
 com os alunos.
 
+* Como utlizar
+
+Em um terminal execute os seguintes comandos para compilar e executar o programa.
+
+#+BEGIN_SRC
+  gcc cminado.c fila.c -o cminado
+  ./cminado
+#+END_SRC
+
 * TODO
 
 Muitos elementos do jogo ainda faltam para que ele fique jogável. Mas
 o essencial está neste código.
 
 Algumas coisas que julgo importante realizar para ficar mais robusto:
- - [ ] Separar as funções de FILA em um arquivo separado
+ - [X] Separar as funções de FILA em um arquivo separado
  - [ ] Colocar a biblioteca de PILHA
  - [ ] Fazer a animação alternar entre FILA e PILHA
  - [ ] Finalizar as regras do jogo

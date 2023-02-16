@@ -15,6 +15,15 @@ de maneira animada, a ordem que os campos são abertos quando se
 A implementação é direta e simples. Tudo foi implementado em conjunto
 com os alunos.
 
+* Como utlizar
+
+Em um terminal execute os seguintes comandos para compilar e executar o programa.
+
+#+BEGIN_SRC
+  gcc cminado.c fila.c -o cminado
+  ./cminado
+#+END_SRC
+
 * TODO
 
 Muitos elementos do jogo ainda faltam para que ele fique jogável. Mas
